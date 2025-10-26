@@ -1,0 +1,1 @@
+This was a group project in which we explored financial transaction data and attempted to create a model to predict credit score. A final presentation report is included, as well as several components of different stages of the project.
